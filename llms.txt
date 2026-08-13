@@ -1,0 +1,35 @@
+# AddInfo Brasil
+
+> Empresa de Tecnologia e Engenharia, Desenvolvimento e Infraestrutura. Sites, aplicativos, jogos, inteligência artificial, redes e CFTV — tudo para a sua necessidade.
+
+Tecnologia e Engenharia, Desenvolvimento e Infraestrutura. A AddInfo Brasil é o único parceiro de tecnologia que uma empresa precisa: do primeiro site ou aplicativo ao produto de inteligência artificial, passando pela rede, cabeamento e câmeras que protegem o negócio. Atendimento local no Rio de Janeiro (RJ) e serviços online para todo o Brasil. Contato: WhatsApp (21) 99153-0552, e-mail addinfobrasil@gmail.com, Instagram @addinfobrasil.
+
+## Produtos digitais
+
+- ComparaPreçoIA: inteligência artificial que compara preços em segundos para ajudar na decisão de compra. Acessar: https://comparaprecoia.web.app
+- Orçamento Automatizado com IA: gera orçamentos e propostas comerciais profissionais em minutos. Acessar: https://orcamentoproia.netlify.app/
+- Ebook: O Código da Transformação: guia prático para transformar a relação da empresa com a tecnologia. Conhecer: https://addinfobrasil.hotmart.host/nova-pagina-680fc465-ba8b-4a16-8144-003088bf4003
+- Fé Diária: aplicativo mobile com um momento de fé e reflexão diário.
+
+## Serviços
+
+- Criação de Sites: sites institucionais, landing pages e lojas virtuais, rápidos e responsivos.
+- Aplicativos: apps para Android e iOS, do conceito ao lançamento nas lojas.
+- Criação de Jogos: jogos sob medida para entretenimento, marketing ou treinamento (2D ou 3D).
+- Design: identidade visual, UI/UX e materiais gráficos.
+- Manutenção de Computadores: preventiva e corretiva, formatação, otimização e suporte.
+- Redes: projeto, instalação e manutenção de redes cabeadas e wireless.
+- Infraestrutura de TI: servidores, cabeamento estruturado e infraestrutura sob medida.
+- CFTV: câmeras de segurança e monitoramento com instalação e configuração completas.
+
+## Blog
+
+Artigos da equipe sobre inteligência artificial, infraestrutura, segurança e desenvolvimento.
+
+## Links
+
+- Site principal: https://addinfobrasil-lab.github.io/addinfobrasil-site/
+- Produtos e serviços: https://addinfobrasil-lab.github.io/addinfobrasil-site/produtos.html
+- Blog: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog.html
+- WhatsApp: https://wa.me/5521991530552
+- Instagram: https://instagram.com/addinfobrasil

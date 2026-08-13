@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://addinfobrasil-lab.github.io/addinfobrasil-site/sitemap.xml

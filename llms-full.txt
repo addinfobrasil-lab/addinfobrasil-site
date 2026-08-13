@@ -1,0 +1,81 @@
+# AddInfo Brasil
+
+> Empresa de Tecnologia e Engenharia, Desenvolvimento e Infraestrutura. Sites, aplicativos, jogos, inteligência artificial, redes e CFTV — tudo para a sua necessidade.
+
+## Identidade
+
+- Nome: AddInfo Brasil
+- Descrição: Empresa de Tecnologia e Engenharia, Desenvolvimento e Infraestrutura.
+- Slogan: Tudo para a sua necessidade!
+- Área de atendimento: Rio de Janeiro (RJ) com atendimento local; serviços online para todo o Brasil.
+- Telefone/WhatsApp: (21) 99153-0552
+- E-mail: addinfobrasil@gmail.com
+- Instagram: @addinfobrasil
+
+## O que fazemos
+
+Três frentes de atuação, um único parceiro de tecnologia:
+
+1. **Desenvolvimento & Design** — sites, aplicativos e jogos construídos sob medida, com design que representa a marca.
+2. **Inteligência Artificial** — produtos próprios de IA que economizam tempo e dinheiro: orçamento automático, comparação de preços e mais.
+3. **Infraestrutura & Redes** — manutenção, redes, CFTV e infraestrutura para manter a operação no ar.
+
+## Produtos digitais
+
+### ComparaPreçoIA
+Inteligência artificial que compara preços em segundos e ajuda a decidir onde comprar melhor, sem abrir dezenas de abas.
+URL: https://comparaprecoia.web.app
+
+### Orçamento Automatizado com IA
+Programa web que gera orçamentos e propostas comerciais profissionais em minutos. A IA monta os itens e valores; o usuário revisa e envia.
+URL: https://orcamentoproia.netlify.app/
+
+### Ebook: O Código da Transformação
+Guia prático e direto para transformar a relação da empresa com a tecnologia, sem enrolação e sem jargão técnico.
+URL: https://addinfobrasil.hotmart.host/nova-pagina-680fc465-ba8b-4a16-8144-003088bf4003
+
+### Fé Diária
+Aplicativo mobile para um momento de fé, reflexão e conexão espiritual todos os dias.
+
+## Serviços
+
+### Criação de Sites
+Sites institucionais, landing pages e lojas virtuais — rápidos, responsivos e feitos para converter visitantes em clientes.
+
+### Aplicativos
+Apps para Android e iOS, do conceito ao lançamento nas lojas, pensados para o dia a dia de quem vai usar.
+
+### Criação de Jogos
+Jogos sob medida para entretenimento, marketing ou treinamento — 2D ou 3D, para web, mobile ou desktop.
+
+### Design
+Identidade visual, UI/UX e materiais gráficos que comunicam a marca com clareza e personalidade.
+
+### Manutenção de Computadores
+Manutenção preventiva e corretiva, formatação, otimização e suporte.
+
+### Redes
+Projeto, instalação e manutenção de redes cabeadas e wireless, com foco em estabilidade e velocidade.
+
+### Infraestrutura de TI
+Servidores, cabeamento estruturado e infraestrutura sob medida.
+
+### CFTV
+Câmeras de segurança e monitoramento com instalação e configuração completas.
+
+## Perguntas frequentes
+
+- **Quais serviços de tecnologia a AddInfo Brasil oferece?** Desenvolvimento e design de sites, aplicativos e jogos; produtos próprios de IA; e infraestrutura de TI (redes, cabeamento, manutenção de computadores e CFTV).
+- **O que é o ComparaPreçoIA?** IA da AddInfo Brasil que compara preços em segundos para ajudar na decisão de compra.
+- **O que faz o orçamento automatizado com IA?** Gera orçamentos e propostas comerciais profissionais em minutos.
+- **Vocês desenvolvem aplicativos para Android e iOS?** Sim, do conceito ao lançamento nas lojas.
+- **A AddInfo Brasil atende em quais regiões?** Atendimento local no Rio de Janeiro (RJ) e serviços online para todo o Brasil.
+- **Como peço um orçamento?** Pelo WhatsApp (21) 99153-0552, informando a necessidade — proposta sob medida, sem compromisso.
+
+## Links
+
+- Site principal: https://addinfobrasil-lab.github.io/addinfobrasil-site/
+- Produtos e serviços: https://addinfobrasil-lab.github.io/addinfobrasil-site/produtos.html
+- Blog: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog.html
+- WhatsApp: https://wa.me/5521991530552
+- Instagram: https://instagram.com/addinfobrasil
