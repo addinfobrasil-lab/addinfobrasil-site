@@ -12,7 +12,13 @@ $hostName = "addinfobrasil-lab.github.io"
 $urls = @(
   "https://$hostName/addinfobrasil-site/",
   "https://$hostName/addinfobrasil-site/produtos.html",
-  "https://$hostName/addinfobrasil-site/blog.html"
+  "https://$hostName/addinfobrasil-site/blog.html",
+  "https://$hostName/addinfobrasil-site/blog/ia-orcamentos.html",
+  "https://$hostName/addinfobrasil-site/blog/rede-manutencao.html",
+  "https://$hostName/addinfobrasil-site/blog/cftv-proteger-negocio.html",
+  "https://$hostName/addinfobrasil-site/blog/site-ou-aplicativo.html",
+  "https://$hostName/addinfobrasil-site/blog/ebook-bastidores.html",
+  "https://$hostName/addinfobrasil-site/blog/jogos-marketing.html"
 )
 
 $payload = @{

@@ -26,6 +26,13 @@ Tecnologia e Engenharia, Desenvolvimento e Infraestrutura. A AddInfo Brasil é o
 
 Artigos da equipe sobre inteligência artificial, infraestrutura, segurança e desenvolvimento.
 
+- Como a IA pode reduzir o custo dos seus orçamentos: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-orcamentos.html
+- 5 sinais de que a rede da sua empresa precisa de manutenção: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/rede-manutencao.html
+- CFTV: por onde começar a proteger o seu negócio: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-proteger-negocio.html
+- Site ou aplicativo: qual o melhor caminho pro seu negócio?: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/site-ou-aplicativo.html
+- Os bastidores do ebook O Código da Transformação: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ebook-bastidores.html
+- Jogos como ferramenta de marketing: vale a pena?: https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/jogos-marketing.html
+
 ## Links
 
 - Site principal: https://addinfobrasil-lab.github.io/addinfobrasil-site/
