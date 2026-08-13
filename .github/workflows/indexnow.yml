@@ -1,0 +1,38 @@
+name: IndexNow Submit
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Aguardar deploy do GitHub Pages
+        run: sleep 90
+
+      - name: Submeter URLs ao IndexNow (Bing, DuckDuckGo, Yandex, Seznam, Naver)
+        shell: pwsh
+        run: |
+          $key = (Get-Content -Raw "ef8b31ad-0d7b-4d69-89f7-c49fae785351.txt").Trim()
+          $hostName = "addinfobrasil-lab.github.io"
+          $urls = @(
+            "https://$hostName/addinfobrasil-site/",
+            "https://$hostName/addinfobrasil-site/produtos.html",
+            "https://$hostName/addinfobrasil-site/blog.html"
+          )
+          $payload = @{
+            host        = $hostName
+            key         = $key
+            keyLocation = "https://$hostName/addinfobrasil-site/$key.txt"
+            urlList     = $urls
+          } | ConvertTo-Json
+          $r = Invoke-WebRequest -Uri "https://api.indexnow.org/indexnow" -Method Post -ContentType "application/json; charset=utf-8" -Body $payload -UseBasicParsing -TimeoutSec 60
+          Write-Host "IndexNow HTTP $($r.StatusCode)"
+          if ($r.StatusCode -eq 200 -or $r.StatusCode -eq 202) { Write-Host "URLs aceitas pelos motores." } else { throw "Falha na submissao IndexNow: HTTP $($r.StatusCode)" }
