@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/</loc>
@@ -15,7 +15,7 @@
   <url>
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog.html</loc>
     <lastmod>2026-08-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -28,7 +28,7 @@
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/rede-manutencao.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-proteger-negocio.html</loc>
@@ -40,16 +40,280 @@
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/site-ou-aplicativo.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ebook-bastidores.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/jogos-marketing.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-generativa-pmes.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-atendimento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-precificacao.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-tarefas-repetitivas.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-time-comercial.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-limites.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-comecar-7-dias.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/ia-produtividade.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-passo-a-passo.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-responsivo.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-velocidade.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-uiux.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-landing.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-seo-basico.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-seguranca-site.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/dev-ecommerce.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/app-4-perguntas.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/app-lancamento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/app-pwa.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/jogo-baixo-custo.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/gamificacao.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/jogos-treinamento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-roteador.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-cabeamento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-internet.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-nuvem.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-backup.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-antivirus.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-homeoffice.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/infra-virtualizacao.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-pequenas.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-ip-ou-analogica.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-armazenamento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/lgpd-cftv.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/cftv-alarme.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/seguranca-dados.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/manut-pc-lento.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/manut-preventiva.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/manut-tecnico.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/manut-ciclo.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/neg-transformacao.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/neg-conversao.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/neg-roi.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://addinfobrasil-lab.github.io/addinfobrasil-site/blog/neg-futuro.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
