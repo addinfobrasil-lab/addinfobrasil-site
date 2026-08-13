@@ -126,7 +126,7 @@ function FooterHtml($prefix){
 
 # ---------- metadados ----------
 function HeadMeta($a, $prefix){
-  $page = "$prefix/blog/$($a.slug).html"
+  $page = "blog/$($a.slug).html"
   $desc = $a.description
   @"
 <meta charset="UTF-8">
@@ -210,7 +210,7 @@ function New-ArticlePage($a){
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-$(HeadMeta $a "")
+$(HeadMeta $a "..")
 <script type="application/ld+json">
 $(LdJson $a $page)
 </script>
