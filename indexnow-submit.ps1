@@ -4,7 +4,9 @@
 
 $ErrorActionPreference = "Stop"
 
-$key = (Get-Content -LiteralPath "ef8b31ad-0d7b-4d69-89f7-c49fae785351.txt" -Raw).Trim()
+$scriptDir = $PSScriptRoot
+if (-not $scriptDir) { $scriptDir = (Get-Location).Path }
+$key = (Get-Content -LiteralPath (Join-Path $scriptDir "ef8b31ad-0d7b-4d69-89f7-c49fae785351.txt") -Raw).Trim()
 $hostName = "addinfobrasil-lab.github.io"
 
 $urls = @(
